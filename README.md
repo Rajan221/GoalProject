@@ -19,3 +19,5 @@ CREATE TABLE goal(
  user_id int,
  foreign key(user_id) references users(id));
  
+ 
+ Xampp server required..
